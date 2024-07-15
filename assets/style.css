@@ -1,0 +1,263 @@
+* {
+  padding-left: 20px;
+
+  max-width: 1356px;
+
+  border-bottom: 90px;
+  
+}
+.sec21 {
+  box-sizing: border-box;
+ position: absolute;
+  top: 420px;
+  /* border: 3px solid rgb(233, 233, 239); */
+  margin-left: 600px;
+  margin-top: 120px;
+  /* margin: 0px 0px 21px; */
+  /* padding: 0px 20px; */
+  
+
+  
+}
+.sec21 p{
+    font-size: 18px;
+    box-sizing: border-box;
+    
+    color: #697585;}
+
+.sec21 h2{
+    color: #2A254D;
+    font-size: 30px Popins Bold sans-serif;
+}
+
+.col-1 {
+  background-color: #183e6b;
+  flex: 0 0 auto;
+  width: 50%;
+}
+.img {
+  position: absolute;
+  top: 85px;
+  padding-left: 10%;
+
+  width: 40%;
+  height: 50%;
+  border-radius: 50%;
+
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 700px;
+  background-color: #082c5b;
+}
+.second_section {
+  font-size: 70px;
+  line-height: 85px;
+  font-weight: 800;
+  color: white;
+  margin: 0 0 12px;
+}
+.secont_section {
+  position: relative;
+  color: white;
+  margin: 0px 0px 30px;
+  font: 16px Popins-light, sans-serif, caption;
+  line-height: 32px;
+  /* margin-top: 0; */
+  margin-bottom: 1 rem;
+  box-sizing: border-box;
+  display: inline;
+}
+.col-2 {
+  width: 50%;
+  background-color: #082c5b;
+  flex-wrap: wrap;
+  display: inline;
+  padding-left: 750px;
+}
+.eduact-btn {
+  background-color: #17a6d5;
+  font: 18px Poppins-Light;
+  display: inline-block;
+  font-size: 18px;
+  display: flex;
+  font-weight: 700;
+  border-radius: 6px;
+  text-transform: capitalize;
+  padding: 16px 32px 20px;
+  z-index: 2;
+  color: #fff;
+  background: fixed;
+}
+.section-2 {
+  background-color: white;
+}
+.sec-2 {
+  box-sizing: border-box;
+  border-radius: 25px;
+  width: 100%;
+  height: 100%;
+}
+.sec21 {
+  box-sizing: border-box;
+  border-radius: 0%;
+  padding-left: 0 20px;
+  flex-wrap: wrap;
+  display: inline;
+  margin-bottom: 21px;
+  display: flex;
+}
+.tch {
+  flex: 1;
+
+  /* padding: 20px; */
+  /* display: flex; */
+  /* flex-direction: column; */
+  justify-content: center;
+  padding: 50px;
+  background-color: #fff;
+}
+
+.tch h2 {
+  /* font-size: 2.5rem; */
+  /* margin-bottom: 20px; */
+  color: #183e6b;
+  top: 20px;
+  border: 1px solid blue;
+  margin-left: 700px;
+  margin-top: 20px;
+  
+}
+
+.feature {
+  flex: 1;
+  margin-right: 20px;
+  box-sizing: border-box;
+  border: 12px solid blue; /* Added border for visibility */
+  padding: 20px;
+}
+
+.feature h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.feature p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.tch {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.tch p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+.sec-2 img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 25px;
+}
+
+.sec-2 img,
+.tch {
+  margin-right: 20px; /* Space between image and text */
+}
+.img {
+  width: 50%;
+  background-color: #183e6b;
+}
+container {
+  flex-wrap: wrap;
+  width: 1680px;
+}
+div a {
+  padding-left: 55px;
+  color: aliceblue;
+}
+
+.edu_btn {
+  background-color: #39c5f3;
+  font: 18px Poppins-Light;
+  display: inline-block;
+  font-size: 18px;
+  display: flex;
+  font-weight: 700;
+  border-radius: 6px;
+  text-transform: capitalize;
+  padding: 16px 32px 20px;
+  z-index: 2;
+  color: #fff;
+}
+.navigation {
+  align-items: center;
+
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+
+  font-weight: 600;
+  text-transform: capitalize;
+  letter-spacing: 0.48px;
+  position: relative;
+
+  background-color: #082c5b;
+
+  height: 70px;
+  width: 110%;
+}
+
+.categories {
+  right: 80px;
+  top: 0;
+  width: 80%;
+  height: 80%;
+  border-radius: 14px;
+  content: "";
+  background: rgba(30, 31, 37, 0.5);
+}
+
+div h3 {
+  font: 24px Popins bold, sans-serif;
+  text-decoration: solid;
+  font-size: 24px;
+  line-height: 26px;
+  position: relative;
+  color: #183e6b;
+  padding: 0 20px;
+  z-index: 0;
+  margin: 0 0 11px;
+  padding-left: 600px;
+  font-weight: bolder;
+}
+div p {
+  font-size: 30px;
+  color: #2a254d;
+  margin-bottom: 20px;
+  padding-left: 500px;
+  font-weight: bolder;
+}
+.card {
+  color: #2a254d;
+  justify-content: space-between;
+  font-weight: bold;
+  font-size: 20px;
+
+  /* direction: left 150px; */
+
+  width: 180px;
+  border: 1.5px solid rgb(43, 81, 232);
+
+  border-radius: 12px;
+  padding: 50px;
+  margin-left: 100px;
+  box-sizing: content-box;
+}
+
+.common {
+  display: flex;
+  justify-content: center;
+}
